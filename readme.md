@@ -1,5 +1,3 @@
-# turtle dick
+这还说啥了，看到这个仓库这辈子有了。
 
 ![shushu](image.png)
-
-用Python海龟工具写的，是Frish写过最有格调的Python代码 ：）
